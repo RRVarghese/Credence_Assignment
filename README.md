@@ -1,6 +1,7 @@
 ## movies
 ```
-A project to list movies based on what is searched in the input box as well as provide an option to add movies in the list of movies.
+A project to list movies based on what is searched in the input box 
+as well as provide an option to add movies in the list of movies.
 ```
 
 ## Project setup
